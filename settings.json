@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "FloofBOT :D",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "blackfish.aternos.host:28212",
+    "ip": "TheDarkRealm.aternos.me:28212",
     "port": 28212,
     "version": "1.21.11",
     "try-creative": false
